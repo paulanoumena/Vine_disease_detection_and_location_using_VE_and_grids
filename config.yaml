@@ -1,0 +1,11 @@
+nir_image_filepath: 'data/230526_nir_rotated.jpg'
+rgb_image_filepath: 'data/230526_rgb_rotated.jpg'
+grid_image_filepath: 'data/230526_grid_image.jpg'
+
+grid_size_x: 18
+grid_size_y: 20
+
+vineyard_total_hectareas: 1.5
+outside_vineyard_color: 164 #grayscale
+ground_color: 0
+
